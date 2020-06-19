@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/gselva.jpeg'),
               ),
               Text(
-                'G Selvakumar ',
+                'G Selvakumar',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
                   fontSize: 40.0,
@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Text(
-                'FLUTTER DEVELOPER',
+                'FLUTTER-DEVELOPER',
                 style: TextStyle(
                   fontFamily: 'SourceSansPro',
                   fontSize: 20.0,
